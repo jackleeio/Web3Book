@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevmbook=self.webpackChunkevmbook||[]).push([[5151],{350:e=>{e.exports=JSON.parse('[{"label":"solidity","permalink":"/docs/tags/solidity","count":1},{"label":"basic","permalink":"/docs/tags/basic","count":1},{"label":"evmbook","permalink":"/docs/tags/evmbook","count":1}]')}}]);

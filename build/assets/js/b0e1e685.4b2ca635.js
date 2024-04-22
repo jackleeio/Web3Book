@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkevmbook=self.webpackChunkevmbook||[]).push([[9691],{1841:s=>{s.exports=JSON.parse('{"label":"basic","permalink":"/docs/tags/basic","allTagsPath":"/docs/tags","count":1,"items":[{"id":"solidity/ValueTypes/valueTypes","title":"2. \u6570\u503c\u7c7b\u578b","description":"---","permalink":"/docs/solidity/ValueTypes/"}],"unlisted":false}')}}]);

@@ -4,7 +4,10 @@
 
 ## 通识
 
-[《区块链小白书》](https://blockchainlittlebook.com/#/) - 区块链启蒙必读
+- [《区块链小白书》](https://blockchainlittlebook.com/#/) - 区块链启蒙必读
+- [《My First Layer2》](https://layer2.myfirst.io/zh) - 深入浅出地剖析 Layer 2 技术的原理、应用及其发展趋势。
+- [《比特币白皮书》](https://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html) - 李笑来老师翻译
+
 
 ## 信仰
 

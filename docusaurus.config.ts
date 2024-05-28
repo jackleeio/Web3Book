@@ -3,21 +3,21 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'EvmBook',
+  title: 'Web3Book',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
 
   // Set the production url of your site here
-  url: 'https://evmbook.jacklee.io',
+  url: 'https://web3book.jacklee.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'evmbook', // Usually your GitHub org/user name.
-  projectName: 'evmbook', // Usually your repo name.
+  organizationName: 'web3book', // Usually your GitHub org/user name.
+  projectName: 'web3book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -59,24 +59,23 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'EvmBook',
+      title: 'Web3Book',
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
       // },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'evmInternalsSidebar',
-          position: 'left',
-          label: 'Evm Internals',
-        },
-        // { to: '/blog', label: 'Solidity', position: 'left' },
-        { to: '/docs/solidity', label: 'Solidity', position: 'left', sidebarId: 'soliditySidebar' },
-        { to: '/docs/layer2', label: 'Layer2', position: 'left', sidebarId: 'layer2Sidebar' },
-        { to: '/blog', label: 'Tools', position: 'left', },
+        { to: '/docs/layer1', label: 'Layer 1', position: 'left', sidebarId: 'layer1Sidebar' },
+        { to: '/docs/layer2', label: 'Layer 2', position: 'left', sidebarId: 'layer2Sidebar' },
+        { to: '/docs/defi', label: 'DeFi', position: 'left', },
+        { to: '/docs/nft', label: 'NFT', position: 'left', },
+        { to: '/docs/gamefi', label: 'GameFi', position: 'left', },
+        { to: '/docs/dao', label: 'DAO', position: 'left', },
+        { to: '/docs/creator-economy', label: 'Creator Economy', position: 'left', },
+        // { to: '/blog', label: 'Creator Economy', position: 'left', },
         // { to: '/chains', label: 'Chains', position: 'left' },
-        { to: '/docs/security', label: 'Security', position: 'left', sidebarId: 'securitySidebar' },
+        { to: '/docs/investment', label: 'Investment', position: 'left', sidebarId: 'securitySidebar' },
+        { to: '/docs/development', label: 'Development', position: 'left', sidebarId: 'securitySidebar' },
         // {
         //   to: '/chains', label: 'Security', type: 'dropdown', items: [
         //     { to: '/chains', label: 'Chains', },
@@ -84,7 +83,7 @@ const config: Config = {
         //   ]
         // },
         {
-          href: 'https://github.com/jackleeio/evmbook',
+          href: 'https://github.com/jackleeio/web3book',
           label: 'GitHub',
           position: 'right',
         },
@@ -133,7 +132,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} EvmBook . Built by JackLee`,
+      copyright: `Copyright © ${new Date().getFullYear()} Web3Book . Built by Jack Lee`,
     },
     prism: {
       theme: prismThemes.github,

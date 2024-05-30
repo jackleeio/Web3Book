@@ -67,7 +67,7 @@ const config: Config = {
       items: [
         { to: '/docs/layer1', label: 'Layer 1', position: 'left', sidebarId: 'layer1Sidebar' },
         { to: '/docs/layer2', label: 'Layer 2', position: 'left', sidebarId: 'layer2Sidebar' },
-        { to: '/docs/defi', label: 'DeFi', position: 'left', },
+        { to: '/docs/defi', label: 'DeFi', position: 'left', sidebarId: ''},
         { to: '/docs/nft', label: 'NFT', position: 'left', },
         { to: '/docs/gamefi', label: 'GameFi', position: 'left', },
         { to: '/docs/dao', label: 'DAO', position: 'left', },

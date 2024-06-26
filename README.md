@@ -40,7 +40,7 @@ todo
 
 ## Investment
 
-tod
+todo
 
 ## Development
 

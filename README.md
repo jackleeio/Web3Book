@@ -10,7 +10,7 @@
 6. [Polkadot](/docs/layer1/polkadot/polkadot.mdx)
 7. [Polygon](/docs/layer1/polygon/polygon.mdx)
 8. [Celo](/docs/layer1/celo/celo.mdx)
-9. [Tazos](/docs/layer1/tazos/tazos.mdx)
+9. [Tezos](/docs/layer1/tezos/tezos.mdx)
 10. [Near](/docs/layer1/near/near.mdx)
 11. [Fandom](/docs/layer1/Fandom/fandom.mdx)
 

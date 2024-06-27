@@ -13,6 +13,9 @@
 9. [Tezos](/docs/layer1/tezos/tezos.mdx)
 10. [Near](/docs/layer1/near/near.mdx)
 11. [Fandom](/docs/layer1/Fandom/fandom.mdx)
+12. [Solana](/docs/layer1/solana/solana.mdx)
+13. [Conflux](/docs/layer1/conflux/conflux.mdx)
+14. [Sui](/docs/layer1/sui/sui.mdx)
 
 ## Layer2
 

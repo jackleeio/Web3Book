@@ -16,6 +16,8 @@
 12. [Solana](/docs/layer1/solana/solana.mdx)
 13. [Conflux](/docs/layer1/conflux/conflux.mdx)
 14. [Sui](/docs/layer1/sui/sui.mdx)
+15. [Aptos](docs/layer1/aptos/aptos.mdx)
+16. [Ton](docs/layer1/ton/ton.mdx)
 
 ## Layer2
 
